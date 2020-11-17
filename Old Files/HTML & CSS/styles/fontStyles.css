@@ -1,0 +1,30 @@
+body {
+  font-size: 10px;
+}
+
+h1 {
+  font-family: georgia;
+  font-size: 5em;
+  text-align: right;
+  text-decoration: line-through;
+}
+
+p {
+  font-family: Arial;
+  font-size: 2em;
+  font-weight: 800; /* Ranges from 100-800, some fonts won't allow number weights */
+  line-height: 1.5; /* Multiple of the current line height*/
+  text-align: center;
+  text-decoration: underline;
+}
+
+span {
+  font-size: 2em;
+}
+
+#indie {
+  font-family: "Indie Flower", cursive;
+}
+#raleway {
+  font-family: "Raleway", sans-serif;
+}

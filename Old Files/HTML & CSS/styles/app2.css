@@ -1,0 +1,50 @@
+body {
+  background: #272233fb;
+}
+
+p {
+  color: olive;
+  padding-left: 10px;
+  text-align: right;
+  line-height: 1.5;
+}
+
+h1 {
+  text-align: center;
+  color: whitesmoke;
+  font-weight: 400;
+  text-decoration: #f78120 underline dotted;
+  letter-spacing: 15px;
+  font-size: 60px;
+  font-family: Copperplate, fantasy;
+}
+
+h2 {
+  color: teal;
+  background: plum;
+  padding-left: 10px;
+}
+
+h3 {
+  color: lightskyblue;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: aquamarine;
+}
+
+a:hover {
+  color: azure;
+  text-decoration: underline;
+}
+
+button {
+  color: magenta;
+  background: cyan;
+}
+
+div {
+  text-align: center;
+}

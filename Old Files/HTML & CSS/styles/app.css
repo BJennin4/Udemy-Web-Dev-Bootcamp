@@ -1,0 +1,22 @@
+h1 {
+  color: rgba(0, 200, 100, 0.8);
+  /* border-color: purple;
+  border-width: 5px;
+  border-style: solid; */
+  border: 2px dotted purple;
+}
+li {
+  color: green;
+}
+h4 {
+  color: #7817a5;
+  background: rgb(255, 100, 80);
+}
+
+body {
+  background: pink;
+  /* background: url(https://wallpaperaccess.com/full/1363243.jpg);
+  background-repeat: no-repeat;
+  background-size: cover; */
+  background: url(https://image.freepik.com/vettori-gratuito/fondo-senza-cuciture-sveglio-del-fumetto-stile-di-kawaii_6997-107.jpg);
+}
